@@ -1,6 +1,3 @@
-import time
-import os
-
 import rumps
 from rumps import *
 import vlc
