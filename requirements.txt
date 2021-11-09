@@ -1,0 +1,3 @@
+setuptools~=54.2.0
+python-vlc
+pip install git+https://github.com/cheerlessDreamer/rumps
