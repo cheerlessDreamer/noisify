@@ -6,4 +6,4 @@
 
 I get *easily distracted*, especially when working from home. Normally, I use the Apple Music app to play some white noise file, or I have a YouTube tab open that plays a white noise video. Both these methods always seemed 'heavy' to me, so I created this app to make the process faster and less intrusive than before.
 
-**You must have VLC installed on your machine for the app to function correctly.**
+**⚠️ You must have VLC installed on your machine for the app to function correctly ⚠️**
